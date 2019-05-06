@@ -1,7 +1,7 @@
 # Git-workshop
 Repository for the attendees of the Git workshop, organized on behalf of Facebook Developer Circle, Delhi at IGDTU.
 
-Slides Deck: [here](https://slides.com/parulagg27/deck-4)
+Slides Deck: https://slides.com/parulagg27/deck-4
 
 Guidelines
 ==========
